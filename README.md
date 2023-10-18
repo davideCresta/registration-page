@@ -8,6 +8,8 @@
 
 -run npm i to install all dependencies and npm run serve to open the website
 
+(Login credentials ==>  username: testAimage   password: testAimage)
+
 Thank you and enjoy my website!
 
 Davide Cresta
