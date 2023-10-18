@@ -1,4 +1,4 @@
-# registratio-page setup
+# registration-page setup
 
 -open back-end with VS Code and open terminal
 
